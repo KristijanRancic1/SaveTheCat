@@ -1,0 +1,27 @@
+# Ignore Unity-generated files
+Temp/
+Library/
+Logs/
+UserSettings/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore IDE-specific files (if using Visual Studio)
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.vsp
+*.vspx
+*.asset
+
+# Ignore Plastic SCM and Collaborate files (if not using them)
+.globl
+.ci-cache
