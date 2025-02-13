@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kvacica_0: -6309294664689585804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
