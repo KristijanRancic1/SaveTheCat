@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 
 public class Move : MonoBehaviour
 {
@@ -45,6 +46,7 @@ public class Move : MonoBehaviour
         {
             spriteRenderer.flipX = true;
         }
+        gameObject.GetComponent<Animator>().SetFloat("Walking", Math.Abs(moveDirection));
     }
 
     private void SetTeleportPositions()
