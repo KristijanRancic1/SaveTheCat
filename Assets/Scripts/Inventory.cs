@@ -1,40 +1,48 @@
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI; // For UI elements
 
 public class InventoryManager : MonoBehaviour
 {
-    public List<string> inventory = new List<string>(); // Store item names
-    public int inventorySize = 5; // Limit to 5 items
+    public Image[] inventorySlots; // Array for item slots (UI Images)
+    public Sprite emptySlotIcon; // Default empty slot icon
+
+    private void Start()
+    {
+        // Initialize slots as empty
+        for (int i = 0; i < inventorySlots.Length; i++)
+        {
+            inventorySlots[i].sprite = emptySlotIcon;
+        }
+    }
 
     // Add an item to inventory
-    public bool AddItem(string itemName)
+    public bool AddItem(Sprite itemIcon)
     {
-        if (inventory.Count < inventorySize)
+        Debug.Log("Checking inventory space...");
+        for (int i = 0; i < inventorySlots.Length; i++)
         {
-            inventory.Add(itemName);
-            Debug.Log("Picked up: " + itemName);
-            return true; // Successfully added
+            if (inventorySlots[i].sprite == emptySlotIcon) // Find an empty slot
+            {
+                inventorySlots[i].sprite = itemIcon;
+                Debug.Log($"Picked up item in slot {i}!");
+                return true;
+            }
         }
-        else
-        {
-            Debug.Log("Inventory is full!");
-            return false; // Inventory full
-        }
+        Debug.Log("Inventory is full!");
+        return false;
     }
 
     // Remove an item from inventory
-    public void RemoveItem(string itemName)
+    public void RemoveItem(int slotIndex)
     {
-        if (inventory.Contains(itemName))
+        if (slotIndex >= 0 && slotIndex < inventorySlots.Length)
         {
-            inventory.Remove(itemName);
-            Debug.Log("Dropped: " + itemName);
+            inventorySlots[slotIndex].sprite = emptySlotIcon; // Reset slot to empty
+            Debug.Log($"Dropped item from slot {slotIndex}");
         }
-    }
-
-    // Check if the inventory has an item
-    public bool HasItem(string itemName)
-    {
-        return inventory.Contains(itemName);
+        else
+        {
+            Debug.LogError("Invalid slot index!");
+        }
     }
 }
