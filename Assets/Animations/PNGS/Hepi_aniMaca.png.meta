@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 288980a42db0c754a8e7a21f33cab5c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1117107528708695691
+    second: Hepi_aniMaca_0
+  - first:
+      213: 6765669018675266179
+    second: Hepi_aniMaca_1
+  - first:
+      213: 1425907911026754775
+    second: Hepi_aniMaca_2
+  - first:
+      213: -1669756389339958706
+    second: Hepi_aniMaca_3
+  - first:
+      213: -2260754584280604115
+    second: Hepi_aniMaca_4
+  - first:
+      213: -7651260756015524232
+    second: Hepi_aniMaca_5
+  - first:
+      213: -2835811235635106815
+    second: Hepi_aniMaca_6
+  - first:
+      213: 4467211945217215549
+    second: Hepi_aniMaca_7
+  - first:
+      213: -263804474650797308
+    second: Hepi_aniMaca_8
+  - first:
+      213: 6789559526690333770
+    second: Hepi_aniMaca_9
+  - first:
+      213: -1451746828921254097
+    second: Hepi_aniMaca_10
+  - first:
+      213: 4093170998368160095
+    second: Hepi_aniMaca_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hepi_aniMaca_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 724
+        height: 859
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579576f0f9c3f70f0800000000000000
+      internalID: -1117107528708695691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_1
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 4
+        width: 777
+        height: 859
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382410e502c74ed50800000000000000
+      internalID: 6765669018675266179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_2
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2
+        width: 913
+        height: 837
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44b27b0b7d9c310800000000000000
+      internalID: 1425907911026754775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_3
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 4
+        width: 897
+        height: 839
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f3ff1965d3d8e0800000000000000
+      internalID: -1669756389339958706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_4
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 4
+        width: 880
+        height: 869
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d226e9ffeaf20a0e0800000000000000
+      internalID: -2260754584280604115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_5
+      rect:
+        serializedVersion: 2
+        x: 6351
+        y: 0
+        width: 843
+        height: 857
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876dec961e241d590800000000000000
+      internalID: -7651260756015524232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_6
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 0
+        width: 828
+        height: 863
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c68e9b4bc25a8d0800000000000000
+      internalID: -2835811235635106815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_7
+      rect:
+        serializedVersion: 2
+        x: 9272
+        y: 0
+        width: 851
+        height: 856
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ccd0b8899befd30800000000000000
+      internalID: 4467211945217215549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_8
+      rect:
+        serializedVersion: 2
+        x: 10647
+        y: 0
+        width: 860
+        height: 863
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd74e5a37c65cf0800000000000000
+      internalID: -263804474650797308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_9
+      rect:
+        serializedVersion: 2
+        x: 12151
+        y: 0
+        width: 809
+        height: 863
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442fb9ba6c593e50800000000000000
+      internalID: 6789559526690333770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_10
+      rect:
+        serializedVersion: 2
+        x: 13629
+        y: 0
+        width: 802
+        height: 886
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f495663fb5adbe0800000000000000
+      internalID: -1451746828921254097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_aniMaca_11
+      rect:
+        serializedVersion: 2
+        x: 14771
+        y: 0
+        width: 762
+        height: 886
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f594aa2265dddc830800000000000000
+      internalID: 4093170998368160095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 216987ba67da54d40910de598217190a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hepi_aniMaca_0: -1117107528708695691
+      Hepi_aniMaca_1: 6765669018675266179
+      Hepi_aniMaca_10: -1451746828921254097
+      Hepi_aniMaca_11: 4093170998368160095
+      Hepi_aniMaca_2: 1425907911026754775
+      Hepi_aniMaca_3: -1669756389339958706
+      Hepi_aniMaca_4: -2260754584280604115
+      Hepi_aniMaca_5: -7651260756015524232
+      Hepi_aniMaca_6: -2835811235635106815
+      Hepi_aniMaca_7: 4467211945217215549
+      Hepi_aniMaca_8: -263804474650797308
+      Hepi_aniMaca_9: 6789559526690333770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

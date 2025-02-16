@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: fac6d47855a1c67418d92befdc4de115
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3969301680260400359
+    second: Hepi_maca_animacija_0
+  - first:
+      213: -127953051289167337
+    second: Hepi_maca_animacija_1
+  - first:
+      213: 560511886173686943
+    second: Hepi_maca_animacija_2
+  - first:
+      213: -4609120151363158371
+    second: Hepi_maca_animacija_3
+  - first:
+      213: -5741987172423252710
+    second: Hepi_maca_animacija_4
+  - first:
+      213: -3820002867222985604
+    second: Hepi_maca_animacija_5
+  - first:
+      213: -4684474846558526094
+    second: Hepi_maca_animacija_6
+  - first:
+      213: -5235153028559803513
+    second: Hepi_maca_animacija_7
+  - first:
+      213: -7065315145203625322
+    second: Hepi_maca_animacija_8
+  - first:
+      213: -5674546209727317271
+    second: Hepi_maca_animacija_9
+  - first:
+      213: 3062851321732762641
+    second: Hepi_maca_animacija_10
+  - first:
+      213: -6634257129503475860
+    second: Hepi_maca_animacija_11
+  - first:
+      213: 6322212528584062166
+    second: Hepi_maca_animacija_12
+  - first:
+      213: 6846468179076150310
+    second: Hepi_maca_animacija_13
+  - first:
+      213: -3119810025020544484
+    second: Hepi_maca_animacija_14
+  - first:
+      213: -243269986854295380
+    second: Hepi_maca_animacija_15
+  - first:
+      213: -8437121575755860190
+    second: Hepi_maca_animacija_16
+  - first:
+      213: -2002961675670766088
+    second: Hepi_maca_animacija_17
+  - first:
+      213: 7971764035368070120
+    second: Hepi_maca_animacija_18
+  - first:
+      213: 6941417926106936396
+    second: Hepi_maca_animacija_19
+  - first:
+      213: -1154016058649911830
+    second: Hepi_maca_animacija_20
+  - first:
+      213: 5545913280993796043
+    second: Hepi_maca_animacija_21
+  - first:
+      213: -7248438976941962278
+    second: Hepi_maca_animacija_22
+  - first:
+      213: -2220061494854129300
+    second: Hepi_maca_animacija_23
+  - first:
+      213: 2536081545921560530
+    second: Hepi_maca_animacija_24
+  - first:
+      213: 993420223714678865
+    second: Hepi_maca_animacija_25
+  - first:
+      213: -7810012545089894052
+    second: Hepi_maca_animacija_26
+  - first:
+      213: 5958914818213406039
+    second: Hepi_maca_animacija_27
+  - first:
+      213: 7378077951254118726
+    second: Hepi_maca_animacija_28
+  - first:
+      213: 1869494341538075490
+    second: Hepi_maca_animacija_29
+  - first:
+      213: 761231367617361289
+    second: Hepi_maca_animacija_30
+  - first:
+      213: 2045569223507539917
+    second: Hepi_maca_animacija_31
+  - first:
+      213: -6754471335114856648
+    second: Hepi_maca_animacija_32
+  - first:
+      213: -7050412315313491346
+    second: Hepi_maca_animacija_33
+  - first:
+      213: 4926686471802706435
+    second: Hepi_maca_animacija_34
+  - first:
+      213: -4019131644771978959
+    second: Hepi_maca_animacija_35
+  - first:
+      213: 3932596899843601107
+    second: Hepi_maca_animacija_36
+  - first:
+      213: 3022585409083053516
+    second: Hepi_maca_animacija_37
+  - first:
+      213: -3638377385370416602
+    second: Hepi_maca_animacija_38
+  - first:
+      213: -258905962941351985
+    second: Hepi_maca_animacija_39
+  - first:
+      213: 937192207951723594
+    second: Hepi_maca_animacija_40
+  - first:
+      213: -6402925617148032582
+    second: Hepi_maca_animacija_41
+  - first:
+      213: 346375507591716294
+    second: Hepi_maca_animacija_42
+  - first:
+      213: -1359465209067453560
+    second: Hepi_maca_animacija_43
+  - first:
+      213: 5226943913217427870
+    second: Hepi_maca_animacija_44
+  - first:
+      213: 5618702713809244962
+    second: Hepi_maca_animacija_45
+  - first:
+      213: 5037594145044998467
+    second: Hepi_maca_animacija_46
+  - first:
+      213: 7535660749371490061
+    second: Hepi_maca_animacija_47
+  - first:
+      213: 3010607541830444168
+    second: Hepi_maca_animacija_48
+  - first:
+      213: 8851635223863626779
+    second: Hepi_maca_animacija_49
+  - first:
+      213: 6689472995030651030
+    second: Hepi_maca_animacija_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 912
+        height: 828
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb7bde6253ae8c0800000000000000
+      internalID: -3969301680260400359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_1
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 854
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a5bf5b06b693ef0800000000000000
+      internalID: -127953051289167337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_2
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 854
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c44cb379657c700800000000000000
+      internalID: 560511886173686943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_3
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 28
+        width: 913
+        height: 826
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e77ea74ad1900c0800000000000000
+      internalID: -4609120151363158371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_4
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ccdac61d5050b0800000000000000
+      internalID: -5741987172423252710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_5
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74433aa1af9cfac0800000000000000
+      internalID: -3820002867222985604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_6
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27560ab42f66dfeb0800000000000000
+      internalID: -4684474846558526094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_7
+      rect:
+        serializedVersion: 2
+        x: 5982
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be1ebbe000957b0800000000000000
+      internalID: -5235153028559803513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_8
+      rect:
+        serializedVersion: 2
+        x: 6350
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69253ff1f45f2fd90800000000000000
+      internalID: -7065315145203625322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_9
+      rect:
+        serializedVersion: 2
+        x: 7260
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf9ab8946ff31b0800000000000000
+      internalID: -5674546209727317271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_10
+      rect:
+        serializedVersion: 2
+        x: 10646
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c87b7ac0f618a20800000000000000
+      internalID: 3062851321732762641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_11
+      rect:
+        serializedVersion: 2
+        x: 11556
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67b75f5a426ee3a0800000000000000
+      internalID: -6634257129503475860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_12
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4f6c85cc20db750800000000000000
+      internalID: 6322212528584062166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_13
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62479d3e88a830f50800000000000000
+      internalID: 6846468179076150310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_14
+      rect:
+        serializedVersion: 2
+        x: 13627
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa2fbcf4534b4d0800000000000000
+      internalID: -3119810025020544484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_15
+      rect:
+        serializedVersion: 2
+        x: 14537
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca829016c3bbf9cf0800000000000000
+      internalID: -243269986854295380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_16
+      rect:
+        serializedVersion: 2
+        x: 14771
+        y: 25
+        width: 912
+        height: 833
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b94ee0a259ea80800000000000000
+      internalID: -8437121575755860190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_17
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 30
+        width: 777
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd3ce6d7fc0434e0800000000000000
+      internalID: -2002961675670766088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_18
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 30
+        width: 897
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb2959672561ae60800000000000000
+      internalID: 7971764035368070120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_19
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 30
+        width: 880
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f12b93ded45060800000000000000
+      internalID: 6941417926106936396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_20
+      rect:
+        serializedVersion: 2
+        x: 6351
+        y: 25
+        width: 843
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5317428c1cffe0800000000000000
+      internalID: -1154016058649911830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_21
+      rect:
+        serializedVersion: 2
+        x: 6823
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf91ccdeba07fc40800000000000000
+      internalID: 5545913280993796043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_22
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 25
+        width: 828
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb4743872f586b90800000000000000
+      internalID: -7248438976941962278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_23
+      rect:
+        serializedVersion: 2
+        x: 8295
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6962b335d1c031e0800000000000000
+      internalID: -2220061494854129300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_24
+      rect:
+        serializedVersion: 2
+        x: 9271
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff312bab8f13320800000000000000
+      internalID: 2536081545921560530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_25
+      rect:
+        serializedVersion: 2
+        x: 9272
+        y: 25
+        width: 851
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d33b1e6659cd00800000000000000
+      internalID: 993420223714678865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_26
+      rect:
+        serializedVersion: 2
+        x: 9747
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59829e28f24d9390800000000000000
+      internalID: -7810012545089894052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_27
+      rect:
+        serializedVersion: 2
+        x: 10181
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755eb6a947152b250800000000000000
+      internalID: 5958914818213406039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_28
+      rect:
+        serializedVersion: 2
+        x: 10647
+        y: 25
+        width: 860
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c4a15ec2346660800000000000000
+      internalID: 7378077951254118726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_29
+      rect:
+        serializedVersion: 2
+        x: 11122
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263daf8d237c1f910800000000000000
+      internalID: 1869494341538075490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_30
+      rect:
+        serializedVersion: 2
+        x: 12151
+        y: 25
+        width: 801
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985b7ba45ef609a00800000000000000
+      internalID: 761231367617361289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_31
+      rect:
+        serializedVersion: 2
+        x: 12630
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc773a2fe52536c10800000000000000
+      internalID: 2045569223507539917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_32
+      rect:
+        serializedVersion: 2
+        x: 13629
+        y: 25
+        width: 773
+        height: 822
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837abe08b1c4342a0800000000000000
+      internalID: -6754471335114856648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_33
+      rect:
+        serializedVersion: 2
+        x: 14104
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6233b99a57e72e90800000000000000
+      internalID: -7050412315313491346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_34
+      rect:
+        serializedVersion: 2
+        x: 15246
+        y: 775
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad58f4e3b1f5440800000000000000
+      internalID: 4926686471802706435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_35
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 31
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b5d7301d2938c0800000000000000
+      internalID: -4019131644771978959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_36
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2fafb6b04639630800000000000000
+      internalID: 3932596899843601107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_37
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59cab4a6162f920800000000000000
+      internalID: 3022585409083053516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_38
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a8e228b03e18dc0800000000000000
+      internalID: -3638377385370416602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_39
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc776a0066e286cf0800000000000000
+      internalID: -258905962941351985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_40
+      rect:
+        serializedVersion: 2
+        x: 5982
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cf9310953910d00800000000000000
+      internalID: 937192207951723594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_41
+      rect:
+        serializedVersion: 2
+        x: 6350
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab984aa431d3427a0800000000000000
+      internalID: -6402925617148032582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_42
+      rect:
+        serializedVersion: 2
+        x: 7260
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd56e060b29ec400800000000000000
+      internalID: 346375507591716294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_43
+      rect:
+        serializedVersion: 2
+        x: 10646
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88348095895322de0800000000000000
+      internalID: -1359465209067453560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_44
+      rect:
+        serializedVersion: 2
+        x: 11556
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e990738abc5d98840800000000000000
+      internalID: 5226943913217427870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_45
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2239f1b5954a9fd40800000000000000
+      internalID: 5618702713809244962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_46
+      rect:
+        serializedVersion: 2
+        x: 13060
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349aef14f2129e540800000000000000
+      internalID: 5037594145044998467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_47
+      rect:
+        serializedVersion: 2
+        x: 13627
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f3422a68b049860800000000000000
+      internalID: 7535660749371490061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_48
+      rect:
+        serializedVersion: 2
+        x: 14537
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8846ae0cb93d7c920800000000000000
+      internalID: 3010607541830444168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_49
+      rect:
+        serializedVersion: 2
+        x: 9271
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c0abf865357da70800000000000000
+      internalID: 8851635223863626779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hepi_maca_animacija_50
+      rect:
+        serializedVersion: 2
+        x: 10181
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690de532f38c5dc50800000000000000
+      internalID: 6689472995030651030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b231731ad48c3848b28f29bc41a93b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hepi_maca_animacija_0: -3969301680260400359
+      Hepi_maca_animacija_1: -127953051289167337
+      Hepi_maca_animacija_10: 3062851321732762641
+      Hepi_maca_animacija_11: -6634257129503475860
+      Hepi_maca_animacija_12: 6322212528584062166
+      Hepi_maca_animacija_13: 6846468179076150310
+      Hepi_maca_animacija_14: -3119810025020544484
+      Hepi_maca_animacija_15: -243269986854295380
+      Hepi_maca_animacija_16: -8437121575755860190
+      Hepi_maca_animacija_17: -2002961675670766088
+      Hepi_maca_animacija_18: 7971764035368070120
+      Hepi_maca_animacija_19: 6941417926106936396
+      Hepi_maca_animacija_2: 560511886173686943
+      Hepi_maca_animacija_20: -1154016058649911830
+      Hepi_maca_animacija_21: 5545913280993796043
+      Hepi_maca_animacija_22: -7248438976941962278
+      Hepi_maca_animacija_23: -2220061494854129300
+      Hepi_maca_animacija_24: 2536081545921560530
+      Hepi_maca_animacija_25: 993420223714678865
+      Hepi_maca_animacija_26: -7810012545089894052
+      Hepi_maca_animacija_27: 5958914818213406039
+      Hepi_maca_animacija_28: 7378077951254118726
+      Hepi_maca_animacija_29: 1869494341538075490
+      Hepi_maca_animacija_3: -4609120151363158371
+      Hepi_maca_animacija_30: 761231367617361289
+      Hepi_maca_animacija_31: 2045569223507539917
+      Hepi_maca_animacija_32: -6754471335114856648
+      Hepi_maca_animacija_33: -7050412315313491346
+      Hepi_maca_animacija_34: 4926686471802706435
+      Hepi_maca_animacija_35: -4019131644771978959
+      Hepi_maca_animacija_36: 3932596899843601107
+      Hepi_maca_animacija_37: 3022585409083053516
+      Hepi_maca_animacija_38: -3638377385370416602
+      Hepi_maca_animacija_39: -258905962941351985
+      Hepi_maca_animacija_4: -5741987172423252710
+      Hepi_maca_animacija_40: 937192207951723594
+      Hepi_maca_animacija_41: -6402925617148032582
+      Hepi_maca_animacija_42: 346375507591716294
+      Hepi_maca_animacija_43: -1359465209067453560
+      Hepi_maca_animacija_44: 5226943913217427870
+      Hepi_maca_animacija_45: 5618702713809244962
+      Hepi_maca_animacija_46: 5037594145044998467
+      Hepi_maca_animacija_47: 7535660749371490061
+      Hepi_maca_animacija_48: 3010607541830444168
+      Hepi_maca_animacija_49: 8851635223863626779
+      Hepi_maca_animacija_5: -3820002867222985604
+      Hepi_maca_animacija_50: 6689472995030651030
+      Hepi_maca_animacija_6: -4684474846558526094
+      Hepi_maca_animacija_7: -5235153028559803513
+      Hepi_maca_animacija_8: -7065315145203625322
+      Hepi_maca_animacija_9: -5674546209727317271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
