@@ -11,6 +11,8 @@ public class Unlock : MonoBehaviour
     private bool isLock2Unlocked = false;
     private Animator animator;
 
+    public AudioSource backgroundMusic;
+
     void Start()
     {
         if (lock1 == null)
@@ -45,6 +47,7 @@ public class Unlock : MonoBehaviour
                 Destroykavez();
                 animator.SetTrigger("Happy");
                 Congrats.SetActive(true);
+                backgroundMusic.Stop();
             }
         }
     }
